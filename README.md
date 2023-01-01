@@ -6,3 +6,5 @@ Pada project ini dilakukan website scraping yang mengambil data pencarian macboo
 4. openpyxl, untuk menyimpan data apabila digunakan format excel.
 
 Selain package, perlu mendownload program chromdriver yang disesuaikan dengan browser yang dipakai.
+
+Hasil dari project ini berupa file csv yang saya beri nama macbook.csv
